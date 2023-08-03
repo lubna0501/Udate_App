@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523362746866",
+    "project_id": "update-app-70a83",
+    "storage_bucket": "update-app-70a83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523362746866:android:3b0f706d8691853e97ab6b",
+        "android_client_info": {
+          "package_name": "com.example.udate_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523362746866-82i39qo857d1tc14tt3571jfta4fgj05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdrIi3A_WNcWDlUlEbEHaGFQgJDgV3tp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523362746866-82i39qo857d1tc14tt3571jfta4fgj05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
